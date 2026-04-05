@@ -21,3 +21,4 @@ Este projeto é uma página de tributo dedicada à banda brasileira Projeto Sola
 
 ---
 Projeto desenvolvido para praticar estilização temática e semântica HTML no curso de ADS. 💻🔥
+Com base no curso de Front-End completo do Matheus Battisti.
